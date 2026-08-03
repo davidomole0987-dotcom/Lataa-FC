@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://lataafootballacademy.co.uk/sitemap.xml
